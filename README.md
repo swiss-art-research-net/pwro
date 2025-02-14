@@ -4,17 +4,17 @@ This repository exists to provide a point of access for users to download the st
 
 PWRo is built in reference to and extending the AAAo standard (https://ontology.swissartresearch.net/aaao/) as well as CIDOC CRM (https://www.cidoc-crm.org) and is designed to support the representation of historical data dealing with events related to power, war, religion and relations.
 
-Namespace: https://ontology.swissartresearch.net/pwro/
-Prefix: pwro
+* Namespace: https://ontology.swissartresearch.net/pwro/
+* Prefix: pwro
 
 This repository is maintained through a collaboration between:
 
-the Swiss Art Research Infrastructure (https://www.sari.uzh.ch/en.html)
-Takin.solutions (https://takin.solutions)
+* the Swiss Art Research Infrastructure (https://www.sari.uzh.ch/en.html)
+* Takin.solutions (https://takin.solutions)
 
 PWRo is developed and maintained using the OntoMe tool. The project space for PWRo can be found here:
 
-https://ontome.net/project/208
+* https://ontome.net/project/208
 
 Changes to the ontology are managed through that tool.
 
