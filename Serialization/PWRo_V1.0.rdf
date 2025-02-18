@@ -83,7 +83,7 @@ An instance of this class comes into existence when an actor undertakes to bring
     <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WE11</skos:notation>
     <rdfs:comment xml:lang="en" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Instances of this class represent communicative acts in which an actor addresses a message to another person or set of persons. </rdfs:comment>
     <rdfs:label xml:lang="en">Correspondence Event</rdfs:label>
-    <rdfs:subClassOf rdf:resource="http://iflastandards.info/ns/lrm/lrmoo/F28"/>
+    <rdfs:subClassOf rdf:resource="http://iflastandards.info/ns/lrm/lrmoo/F28_Expression_Creation"/>
   </rdfs:Class>
   <rdfs:Class rdf:about="https://ontology.swissartresearch.net/pwro/WE12_Sending">
     <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WE12</skos:notation>
