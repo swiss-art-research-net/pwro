@@ -239,14 +239,14 @@ Instances of act of authority begin when an E39 Actor, endowed with the appropri
   </rdf:Property>
   <rdf:Property rdf:about="https://ontology.swissartresearch.net/pwro/WP1i_was_geographic_scope_of">
     <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
-    <rdfs:comment xml:lang="en">This property is the inverse of the forward property described in the scope note that follows.This property relates an instance of exercise of authority to the location over which it projects this authority.</rdfs:comment>
+    <rdfs:comment xml:lang="en">This property is the inverse of the forward property described in the scope note that follows. This property relates an instance of exercise of authority to the location over which it projects this authority.</rdfs:comment>
     <rdfs:label xml:lang="en">was geographic scope of</rdfs:label>
     <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WP1i</skos:notation>
     <rdfs:range rdf:resource="https://ontology.swissartresearch.net/pwro/WE1_Exercise_of_Authority"/>
   </rdf:Property>
   <rdf:Property rdf:about="https://ontology.swissartresearch.net/pwro/WP2i_was_subject_to_authority_of">
     <rdfs:domain rdf:resource="https://ontology.swissartresearch.net/aaao/ZE36_Persons"/>
-    <rdfs:comment xml:lang="en">This property is the inverse of the forward property described in the scope note that follows.This property connects an instance of exercise of authority to the persons individually or collectively over whom it exercised authority.</rdfs:comment>
+    <rdfs:comment xml:lang="en">This property is the inverse of the forward property described in the scope note that follows. This property connects an instance of exercise of authority to the persons individually or collectively over whom it exercised authority.</rdfs:comment>
     <rdfs:label xml:lang="en">was subject to authority of</rdfs:label>
     <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WP2i</skos:notation>
     <rdfs:range rdf:resource="https://ontology.swissartresearch.net/pwro/WE1_Exercise_of_Authority"/>
@@ -254,7 +254,7 @@ Instances of act of authority begin when an E39 Actor, endowed with the appropri
   </rdf:Property>
   <rdf:Property rdf:about="https://ontology.swissartresearch.net/pwro/WP3i_exercised_authority_of">
     <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E39_Actor"/>
-    <rdfs:comment xml:lang="en">This property is the inverse of the forward property described in the scope note that follows.This property relates an instance of sovereignty to an actor, individual or group, who wielded that sovereignty.</rdfs:comment>
+    <rdfs:comment xml:lang="en">This property is the inverse of the forward property described in the scope note that follows. This property relates an instance of sovereignty to an actor, individual or group, who wielded that sovereignty.</rdfs:comment>
     <rdfs:label xml:lang="en">exercised authority of</rdfs:label>
     <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WP3i</skos:notation>
     <rdfs:range rdf:resource="https://ontology.swissartresearch.net/pwro/WE2_Sovereignty"/>
@@ -262,7 +262,7 @@ Instances of act of authority begin when an E39 Actor, endowed with the appropri
   </rdf:Property>
   <rdf:Property rdf:about="https://ontology.swissartresearch.net/pwro/WP4i_was_subject_population_of">
     <rdfs:domain rdf:resource="https://ontology.swissartresearch.net/aaao/ZE37_Population"/>
-    <rdfs:comment xml:lang="en">This property is the inverse of the forward property described in the scope note that follows.This property relates an instance of sovereignty to a population over which it wielded this sovereignty.</rdfs:comment>
+    <rdfs:comment xml:lang="en">This property is the inverse of the forward property described in the scope note that follows. This property relates an instance of sovereignty to a population over which it wielded this sovereignty.</rdfs:comment>
     <rdfs:label xml:lang="en">was subject population of</rdfs:label>
     <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WP4i</skos:notation>
     <rdfs:range rdf:resource="https://ontology.swissartresearch.net/pwro/WE2_Sovereignty"/>
@@ -270,21 +270,21 @@ Instances of act of authority begin when an E39 Actor, endowed with the appropri
   </rdf:Property>
   <rdf:Property rdf:about="https://ontology.swissartresearch.net/pwro/WP5i_manifested_in">
     <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E74_Group"/>
-    <rdfs:comment xml:lang="en">This property is the inverse of the forward property described in the scope note that follows.This property relates an instance of manifest group as a realized collection of real individuals formed together in a coherent space time volume at some time to the abstract group with which they are otherwise identified.</rdfs:comment>
+    <rdfs:comment xml:lang="en">This property is the inverse of the forward property described in the scope note that follows. This property relates an instance of manifest group as a realized collection of real individuals formed together in a coherent space time volume at some time to the abstract group with which they are otherwise identified.</rdfs:comment>
     <rdfs:label xml:lang="en">manifested in</rdfs:label>
     <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WP5i</skos:notation>
     <rdfs:range rdf:resource="https://ontology.swissartresearch.net/pwro/WE4_Manifest_Group"/>
   </rdf:Property>
   <rdf:Property rdf:about="https://ontology.swissartresearch.net/pwro/WP6i_was_intended_target_of">
     <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E18_Physical_Thing"/>
-    <rdfs:comment xml:lang="en">This property is the inverse of the forward property described in the scope note that follows.This property relates an instance of attack to the intended target of that attack.</rdfs:comment>
+    <rdfs:comment xml:lang="en">This property is the inverse of the forward property described in the scope note that follows. This property relates an instance of attack to the intended target of that attack.</rdfs:comment>
     <rdfs:label xml:lang="en">was intended target of</rdfs:label>
     <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WP6i</skos:notation>
     <rdfs:range rdf:resource="https://ontology.swissartresearch.net/pwro/WE6_Attack"/>
   </rdf:Property>
   <rdf:Property rdf:about="https://ontology.swissartresearch.net/pwro/WP7i_undertook">
     <rdfs:domain rdf:resource="https://ontology.swissartresearch.net/pwro/WE3_Embodied_Actor"/>
-    <rdfs:comment xml:lang="en">This property is the inverse of the forward property described in the scope note that follows.This property links an instance of voyage to an instance of embodied actor that undertook that voyage. The related embodied actor is both the agent carrying out the voyage and the object moved. </rdfs:comment>
+    <rdfs:comment xml:lang="en">This property is the inverse of the forward property described in the scope note that follows. This property links an instance of voyage to an instance of embodied actor that undertook that voyage. The related embodied actor is both the agent carrying out the voyage and the object moved. </rdfs:comment>
     <rdfs:label xml:lang="en">undertook</rdfs:label>
     <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WP7i</skos:notation>
     <rdfs:range rdf:resource="https://ontology.swissartresearch.net/pwro/WE7_Voyage"/>
@@ -293,21 +293,21 @@ Instances of act of authority begin when an E39 Actor, endowed with the appropri
   </rdf:Property>
   <rdf:Property rdf:about="https://ontology.swissartresearch.net/pwro/WP8i_was_declared_intermediary_place_of">
     <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
-    <rdfs:comment xml:lang="en">This property is the inverse of the forward property described in the scope note that follows.This property links an instance of voyage to an instance of place that the voyage was intended to pass through in the context of the voyage. The connection created between the voyage and the place is one of intention. Whether a place was actually passed through can only be determined by further documentation which would motivate the documentation of a visit or stop at the intended intermediary place as part of the overall instance of voyage.</rdfs:comment>
+    <rdfs:comment xml:lang="en">This property is the inverse of the forward property described in the scope note that follows. This property links an instance of voyage to an instance of place that the voyage was intended to pass through in the context of the voyage. The connection created between the voyage and the place is one of intention. Whether a place was actually passed through can only be determined by further documentation which would motivate the documentation of a visit or stop at the intended intermediary place as part of the overall instance of voyage.</rdfs:comment>
     <rdfs:label xml:lang="en">was declared intermediary place of</rdfs:label>
     <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WP8i</skos:notation>
     <rdfs:range rdf:resource="https://ontology.swissartresearch.net/pwro/WE7_Voyage"/>
   </rdf:Property>
   <rdf:Property rdf:about="https://ontology.swissartresearch.net/pwro/WP9i_was_declared_destination_of">
     <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
-    <rdfs:comment xml:lang="en">This property is the inverse of the forward property described in the scope note that follows.This property links an instance of sending (and its subclasses) with a place of intended destination for the sending of the object. This property links the act of sending with the referenced place through intention, enabling the representation of the intended final arrival spot of the sent object. In documentation, an intended destination may be known rather than an actual destination of arrival for the sent object, or the intended destination and the final destination differ. This property allows the description of this nuance. The property crm:P26_moved_to should be used to document an actual move. For more complex, multi part actions of sending, an event forming part of the overall sending may document the final arrival place of the object (be that at its intended or another location).</rdfs:comment>
+    <rdfs:comment xml:lang="en">This property is the inverse of the forward property described in the scope note that follows. This property links an instance of sending (and its subclasses) with a place of intended destination for the sending of the object. This property links the act of sending with the referenced place through intention, enabling the representation of the intended final arrival spot of the sent object. In documentation, an intended destination may be known rather than an actual destination of arrival for the sent object, or the intended destination and the final destination differ. This property allows the description of this nuance. The property crm:P26_moved_to should be used to document an actual move. For more complex, multi part actions of sending, an event forming part of the overall sending may document the final arrival place of the object (be that at its intended or another location).</rdfs:comment>
     <rdfs:label xml:lang="en">was declared destination of</rdfs:label>
     <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WP9i</skos:notation>
     <rdfs:range rdf:resource="https://ontology.swissartresearch.net/pwro/WE12_Sending"/>
   </rdf:Property>
   <rdf:Property rdf:about="https://ontology.swissartresearch.net/pwro/WP10i_was_diminished_by">
     <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E18_Physical_Thing"/>
-    <rdfs:comment xml:lang="en">This property is the inverse of the forward property described in the scope note that follows.This property links an instance of destructive physical modification with an instance of physical thing that was diminished through this activity. This property enables the documentation that an instance of destructive physical modification successfully resulted in the reduction of the physical integrity of the physical thing targeted. It does not enable the quantification of this diminishing effect.</rdfs:comment>
+    <rdfs:comment xml:lang="en">This property is the inverse of the forward property described in the scope note that follows. This property links an instance of destructive physical modification with an instance of physical thing that was diminished through this activity. This property enables the documentation that an instance of destructive physical modification successfully resulted in the reduction of the physical integrity of the physical thing targeted. It does not enable the quantification of this diminishing effect.</rdfs:comment>
     <rdfs:label xml:lang="en">was diminished by</rdfs:label>
     <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WP10i</skos:notation>
     <rdfs:range rdf:resource="https://ontology.swissartresearch.net/pwro/WE9_Destructive_Physical_Modification"/>
@@ -315,7 +315,7 @@ Instances of act of authority begin when an E39 Actor, endowed with the appropri
   </rdf:Property>
   <rdf:Property rdf:about="https://ontology.swissartresearch.net/pwro/WP11i_was_ameliorated_by">
     <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E18_Physical_Thing"/>
-    <rdfs:comment xml:lang="en">This property is the inverse of the forward property described in the scope note that follows.This property links an instance of ameliorative physical modification with an instance of physical thing that was ameliorated through this activity. This property enables the documentation that an instance of ameliorative physical modification successfully resulted in the improvement of the physical integrity of the physical thing targeted. It does not enable the quantification of this salutary effect.</rdfs:comment>
+    <rdfs:comment xml:lang="en">This property is the inverse of the forward property described in the scope note that follows. This property links an instance of ameliorative physical modification with an instance of physical thing that was ameliorated through this activity. This property enables the documentation that an instance of ameliorative physical modification successfully resulted in the improvement of the physical integrity of the physical thing targeted. It does not enable the quantification of this salutary effect.</rdfs:comment>
     <rdfs:label xml:lang="en">was ameliorated by</rdfs:label>
     <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WP11i</skos:notation>
     <rdfs:range rdf:resource="https://ontology.swissartresearch.net/pwro/WE10_Ameliorative_Physical_Modification"/>
@@ -323,21 +323,21 @@ Instances of act of authority begin when an E39 Actor, endowed with the appropri
   </rdf:Property>
   <rdf:Property rdf:about="https://ontology.swissartresearch.net/pwro/WP12i_was_addressee_of">
     <rdfs:domain rdf:resource="https://ontology.swissartresearch.net/aaao/ZE36_Persons"/>
-    <rdfs:comment xml:lang="en">This property is the inverse of the forward property described in the scope note that follows.This property links an instance of correspondence event to an instance of  persons to whom it is addressed. This property enables the documentation in a chain of communication of the intended receiver of a particular act of communicating a message.</rdfs:comment>
+    <rdfs:comment xml:lang="en">This property is the inverse of the forward property described in the scope note that follows. This property links an instance of correspondence event to an instance of  persons to whom it is addressed. This property enables the documentation in a chain of communication of the intended receiver of a particular act of communicating a message.</rdfs:comment>
     <rdfs:label xml:lang="en">was addressee of</rdfs:label>
     <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WP12i</skos:notation>
     <rdfs:range rdf:resource="https://ontology.swissartresearch.net/pwro/WE11_Correspondence_Event"/>
   </rdf:Property>
   <rdf:Property rdf:about="https://ontology.swissartresearch.net/pwro/WP13i_was_declared_origin_of">
     <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
-    <rdfs:comment xml:lang="en">This property is the inverse of the forward property described in the scope note that follows.This property links an instance of sending (and its subclasses) with a place of intended origin for the sending of the object. This property links the act of sending with the referenced place through intention, enabling the representation of the intended originating location of the sending activity. In documentation, an intended origin destination may be known in distinction to the actual origin destination of the sending, and indeed the intended origin location and the final origin location may actually differ. This property allows the description of this nuance. The property crm:P27_moved_from should be used to document an actual origin location. For more complex, multi part actions of sending, an event forming part of the overall sending may document the final origin place of the sending (be that at its intended or another location).</rdfs:comment>
+    <rdfs:comment xml:lang="en">This property is the inverse of the forward property described in the scope note that follows. This property links an instance of sending (and its subclasses) with a place of intended origin for the sending of the object. This property links the act of sending with the referenced place through intention, enabling the representation of the intended originating location of the sending activity. In documentation, an intended origin destination may be known in distinction to the actual origin destination of the sending, and indeed the intended origin location and the final origin location may actually differ. This property allows the description of this nuance. The property crm:P27_moved_from should be used to document an actual origin location. For more complex, multi part actions of sending, an event forming part of the overall sending may document the final origin place of the sending (be that at its intended or another location).</rdfs:comment>
     <rdfs:label xml:lang="en">was declared origin of</rdfs:label>
     <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WP13i</skos:notation>
     <rdfs:range rdf:resource="https://ontology.swissartresearch.net/pwro/WE12_Sending"/>
   </rdf:Property>
   <rdf:Property rdf:about="https://ontology.swissartresearch.net/pwro/WP14i_was_visited_through">
     <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
-    <rdfs:comment xml:lang="en">This property is the inverse of the forward property described in the scope note that follows.This property enables the documentation of the relation of an instance of visit event to the place visited. The relation holding between the visit event and the place differs from the typical documentation of the place at which an event occurs. The documented of the visit relation indicates the intentional activity of the actors involved to interact with and observe the place visited and the objects / events occurring within this place frame.
+    <rdfs:comment xml:lang="en">This property is the inverse of the forward property described in the scope note that follows. This property enables the documentation of the relation of an instance of visit event to the place visited. The relation holding between the visit event and the place differs from the typical documentation of the place at which an event occurs. The documented of the visit relation indicates the intentional activity of the actors involved to interact with and observe the place visited and the objects / events occurring within this place frame.
  </rdfs:comment>
     <rdfs:label xml:lang="en">was visited through</rdfs:label>
     <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WP14i</skos:notation>
@@ -346,7 +346,7 @@ Instances of act of authority begin when an E39 Actor, endowed with the appropri
   </rdf:Property>
   <rdf:Property rdf:about="https://ontology.swissartresearch.net/pwro/WP15i_was_dwelt_in_through">
     <rdfs:domain rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
-    <rdfs:comment xml:lang="en">This property is the inverse of the forward property described in the scope note that follows.This property enables the documentation of the relation of an instance of dwelling event to the place dwelt in. The relation holding between the dwelling event and the place differs from the typical documentation of the place at which an event occurs. The documentation of the dwelling relation indicates the intentional activity of the actors involved to take up phenomenal residence and interact with the place dwelt in and the objects / events occurring therein as part of their everyday life and life activity.</rdfs:comment>
+    <rdfs:comment xml:lang="en">This property is the inverse of the forward property described in the scope note that follows. This property enables the documentation of the relation of an instance of dwelling event to the place dwelt in. The relation holding between the dwelling event and the place differs from the typical documentation of the place at which an event occurs. The documentation of the dwelling relation indicates the intentional activity of the actors involved to take up phenomenal residence and interact with the place dwelt in and the objects / events occurring therein as part of their everyday life and life activity.</rdfs:comment>
     <rdfs:label xml:lang="en">was dwelt in through</rdfs:label>
     <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WP15i</skos:notation>
     <rdfs:range rdf:resource="https://ontology.swissartresearch.net/pwro/WE14_Dwelling"/>
@@ -354,7 +354,7 @@ Instances of act of authority begin when an E39 Actor, endowed with the appropri
   </rdf:Property>
   <rdf:Property rdf:about="https://ontology.swissartresearch.net/pwro/WP16i_was_combatant_in">
     <rdfs:domain rdf:resource="https://ontology.swissartresearch.net/pwro/WE3_Embodied_Actor"/>
-    <rdfs:comment xml:lang="en">This property is the inverse of the forward property described in the scope note that follows.This property links an event of attack to instances of embodied actor who actively took part in the physical act of attacking.</rdfs:comment>
+    <rdfs:comment xml:lang="en">This property is the inverse of the forward property described in the scope note that follows. This property links an event of attack to instances of embodied actor who actively took part in the physical act of attacking.</rdfs:comment>
     <rdfs:label xml:lang="en">was combatant in</rdfs:label>
     <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WP16i</skos:notation>
     <rdfs:range rdf:resource="https://ontology.swissartresearch.net/pwro/WE6_Attack"/>
