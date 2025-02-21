@@ -26,7 +26,7 @@ Tools
 
 In addition to the ontology itself, we aim to provide different tools and documentation supporting the understanding and uptake of the ontology. 
 
-Draw.iu Library
+Draw.io Library
 
 Under the tools section of this repo, you will find a draw.io library to aid in formulating diagrams and proposal using the ontology. This library has been generated following the methods established for the CIDOC CRM and implemented by the Canadian Heritage Information Network (https://www.canada.ca/en/heritage-information-network.html). The creation of the draw.io library has been made possible with their support.
 
