@@ -1,0 +1,338 @@
+<mxlibrary>[
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"Instance\" URI=\"https://example.org/instance_uri\" linkTarget=\"_blank\" link=\"https://example.org/instance_uri\" id=\"2\"&gt;&lt;mxCell parent=\"1\" style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;fontSize=16;fontStyle=1\" vertex=\"1\"&gt;&lt;mxGeometry as=\"geometry\" height=\"70\" width=\"140\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": "140",
+    "h": "70",
+    "aspect": "fixed",
+    "title": "Instance"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"WE1 Exercise of Authority\" URI=\"https://ontology.swissartresearch.net/pwro/WE1_Exercise_of_Authority\" linkTarget=\"_blank\" link=\"https://ontology.swissartresearch.net/pwro/WE1_Exercise_of_Authority\" id=\"2\" en=\"Exercise of Authority\"&gt;&lt;mxCell parent=\"1\" style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#82ddff;fontSize=16;fontStyle=1\" vertex=\"1\"&gt;&lt;mxGeometry as=\"geometry\" height=\"70\" width=\"140\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": "140",
+    "h": "70",
+    "aspect": "fixed",
+    "title": "WE1 Exercise of Authority"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"WE2 Sovereignty\" URI=\"https://ontology.swissartresearch.net/pwro/WE2_Sovereignty\" linkTarget=\"_blank\" link=\"https://ontology.swissartresearch.net/pwro/WE2_Sovereignty\" id=\"2\" en=\"Sovereignty\"&gt;&lt;mxCell parent=\"1\" style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#82ddff;fontSize=16;fontStyle=1\" vertex=\"1\"&gt;&lt;mxGeometry as=\"geometry\" height=\"70\" width=\"140\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": "140",
+    "h": "70",
+    "aspect": "fixed",
+    "title": "WE2 Sovereignty"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"WE6 Attack\" URI=\"https://ontology.swissartresearch.net/pwro/WE6_Attack\" linkTarget=\"_blank\" link=\"https://ontology.swissartresearch.net/pwro/WE6_Attack\" id=\"2\" en=\"Attack\"&gt;&lt;mxCell parent=\"1\" style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#82ddff;fontSize=16;fontStyle=1\" vertex=\"1\"&gt;&lt;mxGeometry as=\"geometry\" height=\"70\" width=\"140\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": "140",
+    "h": "70",
+    "aspect": "fixed",
+    "title": "WE6 Attack"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"WE7 Voyage\" URI=\"https://ontology.swissartresearch.net/pwro/WE7_Voyage\" linkTarget=\"_blank\" link=\"https://ontology.swissartresearch.net/pwro/WE7_Voyage\" id=\"2\" en=\"Voyage\"&gt;&lt;mxCell parent=\"1\" style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#82ddff;fontSize=16;fontStyle=1\" vertex=\"1\"&gt;&lt;mxGeometry as=\"geometry\" height=\"70\" width=\"140\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": "140",
+    "h": "70",
+    "aspect": "fixed",
+    "title": "WE7 Voyage"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"WE8 Intentional Destruction\" URI=\"https://ontology.swissartresearch.net/pwro/WE8_Intentional_Destruction\" linkTarget=\"_blank\" link=\"https://ontology.swissartresearch.net/pwro/WE8_Intentional_Destruction\" id=\"2\" en=\"Intentional Destruction\"&gt;&lt;mxCell parent=\"1\" style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#82ddff;fontSize=16;fontStyle=1\" vertex=\"1\"&gt;&lt;mxGeometry as=\"geometry\" height=\"70\" width=\"140\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": "140",
+    "h": "70",
+    "aspect": "fixed",
+    "title": "WE8 Intentional Destruction"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"WE9 Destructive Physical Modification\" URI=\"https://ontology.swissartresearch.net/pwro/WE9_Destructive_Physical_Modification\" linkTarget=\"_blank\" link=\"https://ontology.swissartresearch.net/pwro/WE9_Destructive_Physical_Modification\" id=\"2\" en=\"Destructive Physical Modification\"&gt;&lt;mxCell parent=\"1\" style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#82ddff;fontSize=16;fontStyle=1\" vertex=\"1\"&gt;&lt;mxGeometry as=\"geometry\" height=\"70\" width=\"140\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": "140",
+    "h": "70",
+    "aspect": "fixed",
+    "title": "WE9 Destructive Physical Modification"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"WE10 Ameliorative Physical Modification\" URI=\"https://ontology.swissartresearch.net/pwro/WE10_Ameliorative_Physical_Modification\" linkTarget=\"_blank\" link=\"https://ontology.swissartresearch.net/pwro/WE10_Ameliorative_Physical_Modification\" id=\"2\" en=\"Ameliorative Physical Modification\"&gt;&lt;mxCell parent=\"1\" style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#82ddff;fontSize=16;fontStyle=1\" vertex=\"1\"&gt;&lt;mxGeometry as=\"geometry\" height=\"70\" width=\"140\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": "140",
+    "h": "70",
+    "aspect": "fixed",
+    "title": "WE10 Ameliorative Physical Modification"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"WE11 Correspondence Event\" URI=\"https://ontology.swissartresearch.net/pwro/WE11_Correspondence_Event\" linkTarget=\"_blank\" link=\"https://ontology.swissartresearch.net/pwro/WE11_Correspondence_Event\" id=\"2\" en=\"Correspondence Event\"&gt;&lt;mxCell parent=\"1\" style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#82ddff;fontSize=16;fontStyle=1\" vertex=\"1\"&gt;&lt;mxGeometry as=\"geometry\" height=\"70\" width=\"140\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": "140",
+    "h": "70",
+    "aspect": "fixed",
+    "title": "WE11 Correspondence Event"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"WE12 Sending\" URI=\"https://ontology.swissartresearch.net/pwro/WE12_Sending\" linkTarget=\"_blank\" link=\"https://ontology.swissartresearch.net/pwro/WE12_Sending\" id=\"2\" en=\"Sending\"&gt;&lt;mxCell parent=\"1\" style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#82ddff;fontSize=16;fontStyle=1\" vertex=\"1\"&gt;&lt;mxGeometry as=\"geometry\" height=\"70\" width=\"140\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": "140",
+    "h": "70",
+    "aspect": "fixed",
+    "title": "WE12 Sending"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"WE13 Visit\" URI=\"https://ontology.swissartresearch.net/pwro/WE13_Visit\" linkTarget=\"_blank\" link=\"https://ontology.swissartresearch.net/pwro/WE13_Visit\" id=\"2\" en=\"Visit\"&gt;&lt;mxCell parent=\"1\" style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#82ddff;fontSize=16;fontStyle=1\" vertex=\"1\"&gt;&lt;mxGeometry as=\"geometry\" height=\"70\" width=\"140\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": "140",
+    "h": "70",
+    "aspect": "fixed",
+    "title": "WE13 Visit"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"WE14 Dwelling\" URI=\"https://ontology.swissartresearch.net/pwro/WE14_Dwelling\" linkTarget=\"_blank\" link=\"https://ontology.swissartresearch.net/pwro/WE14_Dwelling\" id=\"2\" en=\"Dwelling\"&gt;&lt;mxCell parent=\"1\" style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#82ddff;fontSize=16;fontStyle=1\" vertex=\"1\"&gt;&lt;mxGeometry as=\"geometry\" height=\"70\" width=\"140\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": "140",
+    "h": "70",
+    "aspect": "fixed",
+    "title": "WE14 Dwelling"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"WE15 Act of Authority\" URI=\"https://ontology.swissartresearch.net/pwro/WE15_Act_of_Authority\" linkTarget=\"_blank\" link=\"https://ontology.swissartresearch.net/pwro/WE15_Act_of_Authority\" id=\"2\" en=\"Act of Authority\"&gt;&lt;mxCell parent=\"1\" style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#82ddff;fontSize=16;fontStyle=1\" vertex=\"1\"&gt;&lt;mxGeometry as=\"geometry\" height=\"70\" width=\"140\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": "140",
+    "h": "70",
+    "aspect": "fixed",
+    "title": "WE15 Act of Authority"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"WE4 Manifest Group\" URI=\"https://ontology.swissartresearch.net/pwro/WE4_Manifest_Group\" linkTarget=\"_blank\" link=\"https://ontology.swissartresearch.net/pwro/WE4_Manifest_Group\" en=\"Manifest Group\" id=\"2\"&gt;&lt;mxCell style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#c78e66;fontSize=16;fontStyle=1;gradientColor=#F8CECC;gradientDirection=west;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"140\" height=\"70\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 140,
+    "h": 70,
+    "aspect": "fixed",
+    "title": "WE4 Manifest Group"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"WE5 Animal\" URI=\"https://ontology.swissartresearch.net/pwro/WE5_Animal\" linkTarget=\"_blank\" link=\"https://ontology.swissartresearch.net/pwro/WE5_Animal\" en=\"Animal\" id=\"2\"&gt;&lt;mxCell style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#c78e66;fontSize=16;fontStyle=1;gradientColor=#FFCCCC;gradientDirection=west;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"140\" height=\"70\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 140,
+    "h": 70,
+    "aspect": "fixed",
+    "title": "WE5 Animal"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"WE3 Embodied Actor\" URI=\"https://ontology.swissartresearch.net/pwro/WE3_Embodied_Actor\" linkTarget=\"_blank\" link=\"https://ontology.swissartresearch.net/pwro/WE3_Embodied_Actor\" en=\"Embodied Actor\" id=\"2\"&gt;&lt;mxCell style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#c78e66;fontSize=16;fontStyle=1;gradientColor=#FFCCCC;gradientDirection=west;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"140\" height=\"70\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 140,
+    "h": 70,
+    "aspect": "fixed",
+    "title": "WE3 Embodied Actor"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"WP1 had geographic scope\" URI=\"https://ontology.swissartresearch.net/pwro/WP1_had_geographic_scope\" linkTarget=\"_blank\" link=\"https://ontology.swissartresearch.net/pwro/WP1_had_geographic_scope\" id=\"2\" en=\"had geographic scope\"&gt;&lt;mxCell style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontStyle=1;strokeWidth=2;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint y=\"60\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/object&gt;\n\t\t\t\t&lt;mxCell id=\"3\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"-0.8952\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;mxCell id=\"4\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.7905\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 1,
+    "h": 100,
+    "aspect": "fixed",
+    "title": "WP1 had geographic scope"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"WP2 had authority over\" URI=\"https://ontology.swissartresearch.net/pwro/WP2_had_authority_over\" linkTarget=\"_blank\" link=\"https://ontology.swissartresearch.net/pwro/WP2_had_authority_over\" id=\"2\" en=\"had authority over\"&gt;&lt;mxCell style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontStyle=1;strokeWidth=2;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint y=\"60\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/object&gt;\n\t\t\t\t&lt;mxCell id=\"3\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"-0.8952\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;mxCell id=\"4\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.7905\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 1,
+    "h": 100,
+    "aspect": "fixed",
+    "title": "WP2 had authority over"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"WP3 had sovereign\" URI=\"https://ontology.swissartresearch.net/pwro/WP3_had_sovereign\" linkTarget=\"_blank\" link=\"https://ontology.swissartresearch.net/pwro/WP3_had_sovereign\" id=\"2\" en=\"had sovereign\"&gt;&lt;mxCell style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontStyle=1;strokeWidth=2;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint y=\"60\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/object&gt;\n\t\t\t\t&lt;mxCell id=\"3\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"-0.8952\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;mxCell id=\"4\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.7905\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 1,
+    "h": 100,
+    "aspect": "fixed",
+    "title": "WP3 had sovereign"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"WP4 had subject population\" URI=\"https://ontology.swissartresearch.net/pwro/WP4_had_subject_population\" linkTarget=\"_blank\" link=\"https://ontology.swissartresearch.net/pwro/WP4_had_subject_population\" id=\"2\" en=\"had subject population\"&gt;&lt;mxCell style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontStyle=1;strokeWidth=2;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint y=\"60\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/object&gt;\n\t\t\t\t&lt;mxCell id=\"3\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"-0.8952\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;mxCell id=\"4\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.7905\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 1,
+    "h": 100,
+    "aspect": "fixed",
+    "title": "WP4 had subject population"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"WP5 was manifestation of\" URI=\"https://ontology.swissartresearch.net/pwro/WP5_was_manifestation_of\" linkTarget=\"_blank\" link=\"https://ontology.swissartresearch.net/pwro/WP5_was_manifestation_of\" id=\"2\" en=\"was manifestation of\"&gt;&lt;mxCell style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontStyle=1;strokeWidth=2;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint y=\"60\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/object&gt;\n\t\t\t\t&lt;mxCell id=\"3\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"-0.8952\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;mxCell id=\"4\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.7905\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 1,
+    "h": 100,
+    "aspect": "fixed",
+    "title": "WP5 was manifestation of"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"WP6 had intended target\" URI=\"https://ontology.swissartresearch.net/pwro/WP6_had_intended_target\" linkTarget=\"_blank\" link=\"https://ontology.swissartresearch.net/pwro/WP6_had_intended_target\" id=\"2\" en=\"had intended target\"&gt;&lt;mxCell style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontStyle=1;strokeWidth=2;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint y=\"60\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/object&gt;\n\t\t\t\t&lt;mxCell id=\"3\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"-0.8952\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;mxCell id=\"4\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.7905\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 1,
+    "h": 100,
+    "aspect": "fixed",
+    "title": "WP6 had intended target"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"WP7 was undertaken by\" URI=\"https://ontology.swissartresearch.net/pwro/WP7_was_undertaken_by\" linkTarget=\"_blank\" link=\"https://ontology.swissartresearch.net/pwro/WP7_was_undertaken_by\" id=\"2\" en=\"was undertaken by\"&gt;&lt;mxCell style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontStyle=1;strokeWidth=2;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint y=\"60\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/object&gt;\n\t\t\t\t&lt;mxCell id=\"3\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"-0.8952\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;mxCell id=\"4\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.7905\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 1,
+    "h": 100,
+    "aspect": "fixed",
+    "title": "WP7 was undertaken by"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"WP8 had declared intermediary place\" URI=\"https://ontology.swissartresearch.net/pwro/WP8_had_declared_intermediary_place\" linkTarget=\"_blank\" link=\"https://ontology.swissartresearch.net/pwro/WP8_had_declared_intermediary_place\" id=\"2\" en=\"had declared intermediary place\"&gt;&lt;mxCell style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontStyle=1;strokeWidth=2;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint y=\"60\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/object&gt;\n\t\t\t\t&lt;mxCell id=\"3\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"-0.8952\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;mxCell id=\"4\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.7905\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 1,
+    "h": 100,
+    "aspect": "fixed",
+    "title": "WP8 had declared intermediary place"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"WP9 had declared destination\" URI=\"https://ontology.swissartresearch.net/pwro/WP9_had_declared_destination\" linkTarget=\"_blank\" link=\"https://ontology.swissartresearch.net/pwro/WP9_had_declared_destination\" id=\"2\" en=\"had declared destination\"&gt;&lt;mxCell style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontStyle=1;strokeWidth=2;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint y=\"60\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/object&gt;\n\t\t\t\t&lt;mxCell id=\"3\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"-0.8952\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;mxCell id=\"4\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.7905\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 1,
+    "h": 100,
+    "aspect": "fixed",
+    "title": "WP9 had declared destination"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"WP10 diminished\" URI=\"https://ontology.swissartresearch.net/pwro/WP10_diminished\" linkTarget=\"_blank\" link=\"https://ontology.swissartresearch.net/pwro/WP10_diminished\" id=\"2\" en=\"diminished\"&gt;&lt;mxCell style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontStyle=1;strokeWidth=2;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint y=\"60\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/object&gt;\n\t\t\t\t&lt;mxCell id=\"3\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"-0.8952\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;mxCell id=\"4\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.7905\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 1,
+    "h": 100,
+    "aspect": "fixed",
+    "title": "WP10 diminished"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"WP11 ameliorated\" URI=\"https://ontology.swissartresearch.net/pwro/WP11_ameliorated\" linkTarget=\"_blank\" link=\"https://ontology.swissartresearch.net/pwro/WP11_ameliorated\" id=\"2\" en=\"ameliorated\"&gt;&lt;mxCell style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontStyle=1;strokeWidth=2;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint y=\"60\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/object&gt;\n\t\t\t\t&lt;mxCell id=\"3\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"-0.8952\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;mxCell id=\"4\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.7905\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 1,
+    "h": 100,
+    "aspect": "fixed",
+    "title": "WP11 ameliorated"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"WP12 had addressee\" URI=\"https://ontology.swissartresearch.net/pwro/WP12_had_addressee\" linkTarget=\"_blank\" link=\"https://ontology.swissartresearch.net/pwro/WP12_had_addressee\" id=\"2\" en=\"had addressee\"&gt;&lt;mxCell style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontStyle=1;strokeWidth=2;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint y=\"60\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/object&gt;\n\t\t\t\t&lt;mxCell id=\"3\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"-0.8952\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;mxCell id=\"4\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.7905\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 1,
+    "h": 100,
+    "aspect": "fixed",
+    "title": "WP12 had addressee"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"WP13 had declared origin\" URI=\"https://ontology.swissartresearch.net/pwro/WP13_had_declared_origin\" linkTarget=\"_blank\" link=\"https://ontology.swissartresearch.net/pwro/WP13_had_declared_origin\" id=\"2\" en=\"had declared origin\"&gt;&lt;mxCell style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontStyle=1;strokeWidth=2;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint y=\"60\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/object&gt;\n\t\t\t\t&lt;mxCell id=\"3\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"-0.8952\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;mxCell id=\"4\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.7905\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 1,
+    "h": 100,
+    "aspect": "fixed",
+    "title": "WP13 had declared origin"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"WP14 visited\" URI=\"https://ontology.swissartresearch.net/pwro/WP14_visited\" linkTarget=\"_blank\" link=\"https://ontology.swissartresearch.net/pwro/WP14_visited\" id=\"2\" en=\"visited\"&gt;&lt;mxCell style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontStyle=1;strokeWidth=2;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint y=\"60\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/object&gt;\n\t\t\t\t&lt;mxCell id=\"3\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"-0.8952\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;mxCell id=\"4\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.7905\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 1,
+    "h": 100,
+    "aspect": "fixed",
+    "title": "WP14 visited"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"WP15 dwelt in\" URI=\"https://ontology.swissartresearch.net/pwro/WP15_dwelt_in\" linkTarget=\"_blank\" link=\"https://ontology.swissartresearch.net/pwro/WP15_dwelt_in\" id=\"2\" en=\"dwelt in\"&gt;&lt;mxCell style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontStyle=1;strokeWidth=2;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint y=\"60\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/object&gt;\n\t\t\t\t&lt;mxCell id=\"3\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"-0.8952\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;mxCell id=\"4\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.7905\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 1,
+    "h": 100,
+    "aspect": "fixed",
+    "title": "WP15 dwelt in"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"WP16 had combatant\" URI=\"https://ontology.swissartresearch.net/pwro/WP16_had_combatant\" linkTarget=\"_blank\" link=\"https://ontology.swissartresearch.net/pwro/WP16_had_combatant\" id=\"2\" en=\"had combatant\"&gt;&lt;mxCell style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontStyle=1;strokeWidth=2;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint y=\"60\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/object&gt;\n\t\t\t\t&lt;mxCell id=\"3\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"-0.8952\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;mxCell id=\"4\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.7905\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 1,
+    "h": 100,
+    "aspect": "fixed",
+    "title": "WP16 had combatant"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"WP1i was geographic scope of\" URI=\"https://ontology.swissartresearch.net/pwro/WP1i_was_geographic_scope_of\" linkTarget=\"_blank\" link=\"https://ontology.swissartresearch.net/pwro/WP1i_was_geographic_scope_of\" id=\"2\" en=\"was geographic scope of\"&gt;&lt;mxCell style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontStyle=1;strokeWidth=2;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint y=\"60\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/object&gt;\n\t\t\t\t&lt;mxCell id=\"3\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"-0.8952\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;mxCell id=\"4\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.7905\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 1,
+    "h": 100,
+    "aspect": "fixed",
+    "title": "WP1i was geographic scope of"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"WP2i was subject to authority of\" URI=\"https://ontology.swissartresearch.net/pwro/WP2i_was_subject_to_authority_of\" linkTarget=\"_blank\" link=\"https://ontology.swissartresearch.net/pwro/WP2i_was_subject_to_authority_of\" id=\"2\" en=\"was subject to authority of\"&gt;&lt;mxCell style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontStyle=1;strokeWidth=2;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint y=\"60\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/object&gt;\n\t\t\t\t&lt;mxCell id=\"3\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"-0.8952\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;mxCell id=\"4\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.7905\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 1,
+    "h": 100,
+    "aspect": "fixed",
+    "title": "WP2i was subject to authority of"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"WP3i exercised authority of\" URI=\"https://ontology.swissartresearch.net/pwro/WP3i_exercised_authority_of\" linkTarget=\"_blank\" link=\"https://ontology.swissartresearch.net/pwro/WP3i_exercised_authority_of\" id=\"2\" en=\"exercised authority of\"&gt;&lt;mxCell style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontStyle=1;strokeWidth=2;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint y=\"60\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/object&gt;\n\t\t\t\t&lt;mxCell id=\"3\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"-0.8952\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;mxCell id=\"4\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.7905\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 1,
+    "h": 100,
+    "aspect": "fixed",
+    "title": "WP3i exercised authority of"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"WP4i was subject population of\" URI=\"https://ontology.swissartresearch.net/pwro/WP4i_was_subject_population_of\" linkTarget=\"_blank\" link=\"https://ontology.swissartresearch.net/pwro/WP4i_was_subject_population_of\" id=\"2\" en=\"was subject population of\"&gt;&lt;mxCell style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontStyle=1;strokeWidth=2;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint y=\"60\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/object&gt;\n\t\t\t\t&lt;mxCell id=\"3\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"-0.8952\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;mxCell id=\"4\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.7905\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 1,
+    "h": 100,
+    "aspect": "fixed",
+    "title": "WP4i was subject population of"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"WP5i manifested in\" URI=\"https://ontology.swissartresearch.net/pwro/WP5i_manifested_in\" linkTarget=\"_blank\" link=\"https://ontology.swissartresearch.net/pwro/WP5i_manifested_in\" id=\"2\" en=\"manifested in\"&gt;&lt;mxCell style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontStyle=1;strokeWidth=2;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint y=\"60\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/object&gt;\n\t\t\t\t&lt;mxCell id=\"3\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"-0.8952\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;mxCell id=\"4\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.7905\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 1,
+    "h": 100,
+    "aspect": "fixed",
+    "title": "WP5i manifested in"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"WP6i was intended target of\" URI=\"https://ontology.swissartresearch.net/pwro/WP6i_was_intended_target_of\" linkTarget=\"_blank\" link=\"https://ontology.swissartresearch.net/pwro/WP6i_was_intended_target_of\" id=\"2\" en=\"was intended target of\"&gt;&lt;mxCell style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontStyle=1;strokeWidth=2;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint y=\"60\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/object&gt;\n\t\t\t\t&lt;mxCell id=\"3\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"-0.8952\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;mxCell id=\"4\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.7905\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 1,
+    "h": 100,
+    "aspect": "fixed",
+    "title": "WP6i was intended target of"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"WP7i undertook\" URI=\"https://ontology.swissartresearch.net/pwro/WP7i_undertook\" linkTarget=\"_blank\" link=\"https://ontology.swissartresearch.net/pwro/WP7i_undertook\" id=\"2\" en=\"undertook\"&gt;&lt;mxCell style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontStyle=1;strokeWidth=2;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint y=\"60\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/object&gt;\n\t\t\t\t&lt;mxCell id=\"3\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"-0.8952\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;mxCell id=\"4\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.7905\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 1,
+    "h": 100,
+    "aspect": "fixed",
+    "title": "WP7i undertook"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"WP8i was declared intermediary place of\" URI=\"https://ontology.swissartresearch.net/pwro/WP8i_was_declared_intermediary_place_of\" linkTarget=\"_blank\" link=\"https://ontology.swissartresearch.net/pwro/WP8i_was_declared_intermediary_place_of\" id=\"2\" en=\"was declared intermediary place of\"&gt;&lt;mxCell style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontStyle=1;strokeWidth=2;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint y=\"60\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/object&gt;\n\t\t\t\t&lt;mxCell id=\"3\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"-0.8952\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;mxCell id=\"4\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.7905\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 1,
+    "h": 100,
+    "aspect": "fixed",
+    "title": "WP8i was declared intermediary place of"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"WP9i was declared destination of\" URI=\"https://ontology.swissartresearch.net/pwro/WP9i_was_declared_destination_of\" linkTarget=\"_blank\" link=\"https://ontology.swissartresearch.net/pwro/WP9i_was_declared_destination_of\" id=\"2\" en=\"was declared destination of\"&gt;&lt;mxCell style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontStyle=1;strokeWidth=2;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint y=\"60\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/object&gt;\n\t\t\t\t&lt;mxCell id=\"3\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"-0.8952\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;mxCell id=\"4\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.7905\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 1,
+    "h": 100,
+    "aspect": "fixed",
+    "title": "WP9i was declared destination of"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"WP10i was diminished by\" URI=\"https://ontology.swissartresearch.net/pwro/WP10i_was_diminished_by\" linkTarget=\"_blank\" link=\"https://ontology.swissartresearch.net/pwro/WP10i_was_diminished_by\" id=\"2\" en=\"was diminished by\"&gt;&lt;mxCell style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontStyle=1;strokeWidth=2;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint y=\"60\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/object&gt;\n\t\t\t\t&lt;mxCell id=\"3\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"-0.8952\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;mxCell id=\"4\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.7905\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 1,
+    "h": 100,
+    "aspect": "fixed",
+    "title": "WP10i was diminished by"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"WP11i was ameliorated by\" URI=\"https://ontology.swissartresearch.net/pwro/WP11i_was_ameliorated_by\" linkTarget=\"_blank\" link=\"https://ontology.swissartresearch.net/pwro/WP11i_was_ameliorated_by\" id=\"2\" en=\"was ameliorated by\"&gt;&lt;mxCell style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontStyle=1;strokeWidth=2;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint y=\"60\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/object&gt;\n\t\t\t\t&lt;mxCell id=\"3\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"-0.8952\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;mxCell id=\"4\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.7905\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 1,
+    "h": 100,
+    "aspect": "fixed",
+    "title": "WP11i was ameliorated by"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"WP12i was addressee of\" URI=\"https://ontology.swissartresearch.net/pwro/WP12i_was_addressee_of\" linkTarget=\"_blank\" link=\"https://ontology.swissartresearch.net/pwro/WP12i_was_addressee_of\" id=\"2\" en=\"was addressee of\"&gt;&lt;mxCell style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontStyle=1;strokeWidth=2;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint y=\"60\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/object&gt;\n\t\t\t\t&lt;mxCell id=\"3\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"-0.8952\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;mxCell id=\"4\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.7905\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 1,
+    "h": 100,
+    "aspect": "fixed",
+    "title": "WP12i was addressee of"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"WP13i was declared origin of\" URI=\"https://ontology.swissartresearch.net/pwro/WP13i_was_declared_origin_of\" linkTarget=\"_blank\" link=\"https://ontology.swissartresearch.net/pwro/WP13i_was_declared_origin_of\" id=\"2\" en=\"was declared origin of\"&gt;&lt;mxCell style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontStyle=1;strokeWidth=2;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint y=\"60\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/object&gt;\n\t\t\t\t&lt;mxCell id=\"3\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"-0.8952\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;mxCell id=\"4\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.7905\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 1,
+    "h": 100,
+    "aspect": "fixed",
+    "title": "WP13i was declared origin of"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"WP14i was visited through\" URI=\"https://ontology.swissartresearch.net/pwro/WP14i_was_visited_through\" linkTarget=\"_blank\" link=\"https://ontology.swissartresearch.net/pwro/WP14i_was_visited_through\" id=\"2\" en=\"was visited through\"&gt;&lt;mxCell style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontStyle=1;strokeWidth=2;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint y=\"60\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/object&gt;\n\t\t\t\t&lt;mxCell id=\"3\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"-0.8952\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;mxCell id=\"4\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.7905\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 1,
+    "h": 100,
+    "aspect": "fixed",
+    "title": "WP14i was visited through"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"WP15i was dwelt in through\" URI=\"https://ontology.swissartresearch.net/pwro/WP15i_was_dwelt_in_through\" linkTarget=\"_blank\" link=\"https://ontology.swissartresearch.net/pwro/WP15i_was_dwelt_in_through\" id=\"2\" en=\"was dwelt in through\"&gt;&lt;mxCell style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontStyle=1;strokeWidth=2;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint y=\"60\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/object&gt;\n\t\t\t\t&lt;mxCell id=\"3\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"-0.8952\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;mxCell id=\"4\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.7905\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 1,
+    "h": 100,
+    "aspect": "fixed",
+    "title": "WP15i was dwelt in through"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"WP16i was combatant in\" URI=\"https://ontology.swissartresearch.net/pwro/WP16i_was_combatant_in\" linkTarget=\"_blank\" link=\"https://ontology.swissartresearch.net/pwro/WP16i_was_combatant_in\" id=\"2\" en=\"was combatant in\"&gt;&lt;mxCell style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontStyle=1;strokeWidth=2;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint y=\"60\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/object&gt;\n\t\t\t\t&lt;mxCell id=\"3\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"-0.8952\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;mxCell id=\"4\" value=\"\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.7905\" y=\"1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;\n\t\t\t\t&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 1,
+    "h": 100,
+    "aspect": "fixed",
+    "title": "WP16i was combatant in"
+  }
+]</mxlibrary>
